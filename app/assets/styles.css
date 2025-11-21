@@ -1,0 +1,58 @@
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #f6f8fb;
+    margin: 0;
+    padding: 0;
+}
+
+.app-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.app-title {
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+.last-updated {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #555;
+}
+
+.cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.summary-card {
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 2px 6px rgba(15, 23, 42, 0.08);
+}
+
+.card-title {
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+}
+
+.card-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.35rem;
+}
+
+.section-title {
+    margin-top: 2rem;
+}
+
+.empty-state {
+    grid-column: 1 / -1;
+    text-align: center;
+    color: #777;
+}
