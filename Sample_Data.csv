@@ -1,0 +1,38 @@
+SAMPLE PARTNER CONTRIBUTIONS
+Date,Partner Name,Amount,Payment Method,Category,Notes
+2025-01-01,Partner 1,10000,Bank Transfer,Initial Capital,Initial investment
+2025-01-01,Partner 2,10000,Bank Transfer,Initial Capital,Initial investment
+2025-01-01,Partner 3,10000,Bank Transfer,Initial Capital,Initial investment
+2025-01-01,Partner 4,10000,Bank Transfer,Initial Capital,Initial investment
+2025-01-15,Partner 1,5000,Bank Transfer,Equipment Purchase,Additional investment for car lift
+
+SAMPLE EXPENSES
+Date,Category,Subcategory,Vendor/Supplier,Description,Amount,Payment Method,Paid By,Receipt #,Notes
+2025-01-02,Facility Costs,Rent/Lease,ABC Properties,Monthly rent for facility,3000,Bank Transfer,Partner 1,R001,January rent
+2025-01-03,Equipment & Tools,Washing Equipment,Car Wash Supplies Inc,Professional car wash system,8000,Bank Transfer,Partner 2,R002,Main washing bay equipment
+2025-01-03,Supplies & Consumables,Car Wash Chemicals,Chemical Supply Co,Detergent concentrate - 50 gallons,500,Credit Card,Partner 3,R003,Initial chemical supply
+2025-01-05,Labor Costs,Salaries,John Doe,Manager salary - January,2500,Bank Transfer,Partner 1,R004,Monthly salary
+2025-01-05,Labor Costs,Wages,Jane Smith,Detailer wages - Week 1,600,Cash,Partner 2,R005,Weekly wages
+2025-01-06,Facility Costs,Utilities,Power Company,Electricity bill,450,Bank Transfer,Partner 4,R006,December electricity
+2025-01-07,Marketing & Advertising,Digital Marketing,Google Ads,Online advertising campaign,800,Credit Card,Partner 1,R007,January campaign
+2025-01-08,Supplies & Consumables,Microfiber Cloths,Detailing Supplies Ltd,100 premium microfiber cloths,200,Credit Card,Partner 3,R008,Initial supplies
+2025-01-10,Administrative,Licenses & Permits,City Hall,Business license renewal,350,Check,Partner 1,R009,Annual license
+2025-01-12,Equipment & Tools,Vacuums & Cleaners,Industrial Equipment Co,Industrial wet/dry vacuum,1200,Credit Card,Partner 2,R010,For interior cleaning
+
+SAMPLE REVENUE
+Date,Service Type,Customer Name,Vehicle Type,Amount,Payment Method,Received By,Invoice #,Notes
+2025-01-10,Basic Services - Full Service,John Customer,Sedan,45,Credit Card,Employee 1,INV001,First customer!
+2025-01-10,Basic Services - Exterior Wash Premium,Sarah Driver,SUV,30,Cash,Employee 1,INV002,
+2025-01-10,Premium Services - Waxing,Mike Wilson,Sedan,60,Credit Card,Employee 2,INV003,
+2025-01-11,Detailing Services - Interior Detailing,Lisa Brown,SUV,120,Credit Card,Employee 2,INV004,Deep clean requested
+2025-01-11,Basic Services - Full Service,Tom Anderson,Truck,50,Cash,Employee 1,INV005,
+2025-01-11,Premium Services - Polishing,Emma Davis,Luxury Sedan,80,Credit Card,Employee 2,INV006,
+2025-01-12,Packages & Memberships - Monthly Membership,Robert Lee,Sedan,150,Credit Card,Manager,INV007,First membership sold
+2025-01-12,Detailing Services - Full Detailing,Patricia Martinez,SUV,250,Credit Card,Employee 2,INV008,Premium detailing package
+2025-01-12,Basic Services - Exterior Wash Basic,Chris Johnson,Sedan,20,Cash,Employee 1,INV009,
+2025-01-13,Specialized Services - Pet Hair Removal,Amanda White,SUV,40,Credit Card,Employee 2,INV010,Heavy pet hair
+2025-01-13,Basic Services - Full Service,David Thompson,Sedan,45,Credit Card,Employee 1,INV011,
+2025-01-13,Premium Services - Ceramic Coating,Jennifer Garcia,Luxury SUV,400,Credit Card,Manager,INV012,High-end service
+2025-01-14,Basic Services - Interior Cleaning Deep,Ryan Harris,Van,70,Cash,Employee 2,INV013,Commercial van
+2025-01-14,Basic Services - Full Service,Michelle Clark,Sedan,45,Credit Card,Employee 1,INV014,
+2025-01-15,Detailing Services - Engine Bay Cleaning,Kevin Rodriguez,Sports Car,90,Credit Card,Employee 2,INV015,Specialty service
